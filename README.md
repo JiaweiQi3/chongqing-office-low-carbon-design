@@ -1,10 +1,10 @@
+![Low-Carbon and Energy-Saving Design of an Office Building in Chongqing](assets/cover.png)
+
 # Low-Carbon and Energy-Saving Design of an Office Building in Chongqing
 
 An hour-by-hour simulation study of how far a six-storey office building in Chongqing's hot-summer, cold-winter climate can cut its energy use and operational carbon through rooftop photovoltaics, passive design, efficient systems, and load flexibility.
 
 *Undergraduate thesis, Chongqing University, 2025. Advisor: Prof. Wei Yu.* English summary: [`report/Thesis_Summary_English.pdf`](report/Thesis_Summary_English.pdf). Full thesis (in Simplified Chinese): [`report/Thesis_Full_Chinese.pdf`](report/Thesis_Full_Chinese.pdf)
-
-![Free-running temperature of the open-plan office before and after optimization](figures/indoor_temperature.png)
 
 ## Key findings
 
