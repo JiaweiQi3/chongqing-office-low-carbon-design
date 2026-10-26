@@ -1,4 +1,4 @@
-![Low-Carbon and Energy-Saving Design of an Office Building in Chongqing](assets/cover.png)
+![Low-Carbon and Energy-Saving Design of an Office Building in Chongqing](figures/cover.png)
 
 # Low-Carbon and Energy-Saving Design of an Office Building in Chongqing
 
